@@ -31,8 +31,8 @@ Currently leading the `IONS` project — a Nuxt 3 powered service platform built
 - Automate everything possible.  
 - Architect for clarity and future growth.  
 - Handle errors like a master.  
-- Name things right (`DomofonApiClient` only).  
-- Delete what's obsolete (RIP `DomofonRealTimedQueue`).  
+- Name things right.  
+- Delete what's obsolete.  
 
 ---
 
