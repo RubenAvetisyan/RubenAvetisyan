@@ -20,8 +20,7 @@ Currently leading the `IONS` project — a Nuxt 3 powered service platform built
 
 - Nuxt 3 · Vue 3 · TypeScript  
 - Nitro · Node.js · MySQL · MongoDB · SQLite  
-- Docker · Docker Compose · Mutagen  
-- Postman Automation · JWT Authorization  
+- Docker · Docker Compose · Mutagen
 - SOLID & GRASP Principles  
 
 ---
